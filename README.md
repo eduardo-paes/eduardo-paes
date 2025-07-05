@@ -1,5 +1,3 @@
-# 👨🏻‍💻  About Me
-
 ## 🚀 Who I Am
 
 I’m a Brazilian software engineer passionate about building systems that **scale, simplify, and surprise**. Whether it’s designing robust backend architectures, crafting clean frontends, or dabbling with AI experiments — I bring ideas to life through code.
