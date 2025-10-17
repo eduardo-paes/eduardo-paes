@@ -73,7 +73,7 @@ I value **deep thinking**, **clear communication**, and **continuous improvement
 
 Open to **freelance gigs**, **side projects**, or just a good conversation over coffee (virtual or real ☕). Always happy to share ideas or brainstorm together.
 
-📫 Email: [eduardo-paes@outlook.com](mailto:eduardo-paes@outlook.com)
+📫 Email: [talktoeddie@icloud.com](mailto:talktoeddie@icloud.com)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-paes-silva-b1aa2615a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
