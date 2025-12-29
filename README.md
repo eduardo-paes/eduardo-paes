@@ -1,16 +1,13 @@
-## 🚀 Who I Am
+## Who I Am
 
 I’m a Brazilian software engineer passionate about building systems that **scale, simplify, and surprise**. Whether it’s designing robust backend architectures, crafting clean frontends, or dabbling with AI experiments — I bring ideas to life through code.
+I earned my degree in **Computer Engineering** from CEFET in Petrópolis–RJ, but my real education never stops. I'm constantly diving into topics like:
 
-🎓 I earned my degree in **Computer Engineering** from CEFET in Petrópolis–RJ, but my real education never stops. I'm constantly diving into topics like:
+* **Systems Design** — architecting for clarity, scalability, and resilience
+* **Cloud Engineering** — automating infrastructure, improving deployment workflows
+* **Artificial Intelligence** — from ML theory to practical LLM integration
 
-* 🏗 **Systems Design** — architecting for clarity, scalability, and resilience
-* ☁️ **Cloud Engineering** — automating infrastructure, improving deployment workflows
-* 🧠 **Artificial Intelligence** — from ML theory to practical LLM integration
-
----
-
-## 🛠 What I Work With
+## What I Work With
 
 Here’s a taste of the technologies I use regularly (and love exploring beyond them too):
 
@@ -38,15 +35,7 @@ Here’s a taste of the technologies I use regularly (and love exploring beyond 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge\&logo=jetbrains\&logoColor=white)
 
-**Ecosystem Work**
-
-* 🧩 Building and maintaining modular, testable architectures
-* 🔍 Automating QA/test pipelines and debugging complex integration issues
-* 🤖 Experimenting with local LLMs and AI agents (Ollama, DeepSeek, Open WebUI.)
-
----
-
-## 📚 Beyond Code
+## Beyond Code
 
 When I’m not coding, I’m probably:
 
@@ -54,11 +43,7 @@ When I’m not coding, I’m probably:
 * Exploring productivity tools, automation workflows, or obscure programming blogs
 * Reflecting on human behavior, ethics in tech, and what makes ideas stick
 
-I value **deep thinking**, **clear communication**, and **continuous improvement**. Whether it’s crafting elegant code or understanding a complex human system — I love making things make sense.
-
----
-
-## 📊 GitHub At a Glance
+## GitHub At a Glance
 
 <p align="center">
   <a href="https://github.com/eduardo-paes">
@@ -67,11 +52,9 @@ I value **deep thinking**, **clear communication**, and **continuous improvement
   </a>
 </p>
 
----
+## Let’s Connect
 
-## 🤝 Let’s Connect
-
-Open to **freelance gigs**, **side projects**, or just a good conversation over coffee (virtual or real ☕). Always happy to share ideas or brainstorm together.
+Always happy to share ideas or brainstorm together.
 
 📫 Email: [talktoeddie@icloud.com](mailto:talktoeddie@icloud.com)
 
@@ -79,8 +62,4 @@ Open to **freelance gigs**, **side projects**, or just a good conversation over 
   <a href="https://www.linkedin.com/in/eduardo-paes-silva-b1aa2615a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:edupaessilva@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
----
-
-*Thanks for stopping by — see you around the codebase.*
 
