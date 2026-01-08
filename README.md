@@ -1,15 +1,13 @@
-## Who I Am
+## About me
 
-I’m a Brazilian software engineer passionate about building systems that **scale, simplify, and surprise**. Whether it’s designing robust backend architectures, crafting clean frontends, or dabbling with AI experiments — I bring ideas to life through code.
-I earned my degree in **Computer Engineering** from CEFET in Petrópolis–RJ, but my real education never stops. I'm constantly diving into topics like:
+I’m a Brazilian software engineer passionate about building systems that **scale, simplify, and surprise**. Whether it’s designing robust backend architectures, crafting clean frontends, or dabbling with AI experiments. I bring ideas to life through code.
+I earned my degree in **Computer Engineering** from CEFET/RJ, but my real education never stops. I'm constantly diving into topics like:
 
 * **Systems Design** — architecting for clarity, scalability, and resilience
 * **Cloud Engineering** — automating infrastructure, improving deployment workflows
 * **Artificial Intelligence** — from ML theory to practical LLM integration
 
-## What I Work With
-
-Here’s a taste of the technologies I use regularly (and love exploring beyond them too):
+## Stack
 
 **Languages & Frameworks**
 
@@ -54,12 +52,7 @@ When I’m not coding, I’m probably:
 
 ## Let’s Connect
 
-Always happy to share ideas or brainstorm together.
+Always happy to share ideas.
 
-📫 Email: [talktoeddie@icloud.com](mailto:talktoeddie@icloud.com)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-paes-silva-b1aa2615a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:edupaessilva@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
+* Email: [talktoeddie@icloud.com](mailto:talktoeddie@icloud.com)
+* LinkedIn: [Profile](https://www.linkedin.com/in/eduardo-paes-silva-b1aa2615a)
