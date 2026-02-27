@@ -3,9 +3,9 @@
 I’m a Brazilian software engineer passionate about building systems that **scale, simplify, and surprise**. Whether it’s designing robust backend architectures, crafting clean frontends, or dabbling with AI experiments. I bring ideas to life through code.
 I earned my degree in **Computer Engineering** from CEFET/RJ, but my real education never stops. I'm constantly diving into topics like:
 
-* **Systems Design** — architecting for clarity, scalability, and resilience
-* **Cloud Engineering** — automating infrastructure, improving deployment workflows
-* **Artificial Intelligence** — from ML theory to practical LLM integration
+* **Systems Design**: architecting for clarity, scalability, and resilience
+* **Cloud Engineering**: automating infrastructure, improving deployment workflows
+* **Artificial Intelligence**: from ML theory to practical LLM integration
 
 ## Stack
 
